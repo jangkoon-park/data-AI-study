@@ -1,0 +1,43 @@
+
+
+### 🔹 **6\~8월: 기초 다지기**
+
+* **Python**: *Data Engineering with Python* (Paul Crickard)
+* **SQL**: *SQL Performance Explained*
+* **Linux**: *The Linux Command Line* + 실습 (Linux Journey)
+* **데이터 정제**: *Effective Pandas*, *Python Data Cleaning Cookbook*
+* **Docker, Git/GitHub, pandas/numpy 심화**
+
+---
+
+### 🔹 **9\~11월: 인프라 & 워크플로우**
+
+* **DB 심화**: *Designing Data-Intensive Applications*
+* **Airflow**: *Data Pipelines with Apache Airflow*
+* **클라우드 (AWS/GCP)**: 공식 튜토리얼 위주 실습
+* **Kubernetes**: *Kubernetes Up & Running*
+* **데이터 모델링**: *The Data Warehouse Toolkit*
+* **Terraform**: *Terraform: Up & Running*
+
+---
+
+### 🔹 **12\~1월: 빅데이터 & 스트리밍**
+
+* **Spark**: *Learning Spark 2nd*, Databricks 강의
+* **Kafka**: *Kafka: The Definitive Guide*, Confluent 강의
+* **로그 처리**: 공식 문서 + ELK/Fluentd 튜토리얼
+* **Elasticsearch**: *The Definitive Guide* + 실습
+* **Redis**: *Redis in Action* + Try Redis, Redis Univ
+* **Grafana/Prometheus**: *Prometheus: Up & Running* + 실습
+
+---
+
+### 📌 학습 전략 요약
+
+* **순서**: Spark → Kafka → Elasticsearch → Redis → Grafana/Prometheus
+* **방식**: 책 + 공식 강의 + 실습 병행
+* **심화**: *Designing Data-Intensive Applications*로 아키텍처 통합 이해
+
+---
+
+필요 시 분야별 세부 일정도 도와드릴 수 있어요!
