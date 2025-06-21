@@ -1,8 +1,14 @@
-구문이나 단어 해석을 해주고 
-문장구조를 한국어로 트리 형태로 만들어줘 
+전체 문장이란 단어를 상단에 넣어주고
 상단에 전체 문장과 해석도 같이 표기해줘
-그리고 표 형식은 다 뺴줘
 
+구문이나 단어 해석을 해주고 
+
+문장분석을 트리 형태로 해주고 분석 내용을 한글로 해줘
+표형식은 다 뺴줘
+
+
+A database index is, however, more complex than a printed directory
+because it undergoes constant change
 
 
 
