@@ -3,5 +3,8 @@
 
 여기에 폴더 URL 입력:
 
-
+--옵시디안
 https://github.com/jangkoon-park/data-AI-study/tree/main/english/Obsidian%20Vault
+
+--케라스 다운로드 주소
+https://github.com/jangkoon-park/data-AI-study/tree/main/ml-complete-guide-scikit-keras-tensorflow2
