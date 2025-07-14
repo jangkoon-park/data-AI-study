@@ -8,3 +8,11 @@ https://github.com/jangkoon-park/data-AI-study/tree/main/english/Obsidian%20Vaul
 
 --케라스 다운로드 주소
 https://github.com/jangkoon-park/data-AI-study/tree/main/ml-complete-guide-scikit-keras-tensorflow2
+
+
+-한번에 옵시디안 받기 
+https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjangkoon-park%2Fdata-AI-study%2Ftree%2Fmain%2Fenglish%2FObsidian%2520Vault
+
+
+--케라스 한번에 받기 
+https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjangkoon-park%2Fdata-AI-study%2Ftree%2Fmain%2Fml-complete-guide-scikit-keras-tensorflow2
