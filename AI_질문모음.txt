@@ -1,10 +1,12 @@
 구문이나 단어 해석을 해주고 문장구조를 한국어를 써서 트리 형태로 만들어줘 
 전체 문장도 표기해줘
-그리고 표 형식은 다빼고 나열해줘 다빼줘  
+그리고 표 형식은 다빼고 나열해줘   
 그리고 첫줄에 영어 문장을 넣어주고 제목으로 전체 문장 이라고 넣어줘
-마지막 전체 해석도 해줘고 전체 문장 밑에다가 전체해석도 넣어줘
+전체 해석도 해주고 전체 문장 밑에다가 바로 넣어줘
 
-At least two entries are the same, to be more precise
+That
+means there is an index on the EMPLOYEE_ID column, even though there is
+no create index statement.
 
 하루에
 
@@ -30,12 +32,8 @@ At least two entries are the same, to be more precise
 그리고 노마드는 내가 지금 단가가 월 750만원 인데  노마드는 더 돈을 벌수 있나? 
 
 
+질문시 추가 로할것
 
-------------------------
-배포일시가맞는지 특히 요일  
-sr 번호와 문서번호가 같고 
-제목이 엣지에 있는 지라와 같은지 
-구분에 긴급인지 정규인지 
-유형에 app+db 인지 아닌지 
-
-
+- 지금 더 물어볼 게 있나?
+- 내가 이해한 걸 더 넓히거나 깊게 볼 수 있나?
+- 내가 놓친 건 없나?
